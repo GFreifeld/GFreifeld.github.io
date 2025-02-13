@@ -1,0 +1,11 @@
+body {
+    max-width: 600px;
+    background-color: #ffeeff;
+    margin: 20px;
+}
+a {
+    color: #006000
+}
+.floatright {
+    float: right;
+}
